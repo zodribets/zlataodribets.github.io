@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about_ukraine
 title: about (Ukraine)
 permalink: /
 subtitle: 
