@@ -1,6 +1,6 @@
 ---
 layout: about_ukrainian
-title: about (Ukraine)
+title: about (Ukrainian)
 permalink: /about_ukrainian/
 nav: true
 nav_order: 9
