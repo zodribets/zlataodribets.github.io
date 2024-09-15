@@ -2,24 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portrait.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+My name is Zlata Odribets, and I'm a second-year PhD student in the Department of Linguistics 
+at [McGill University](https://www.mcgill.ca/linguistics/), 
+currently supervised by [James Crippen](https://mull-lab.org/james-a-crippen/) 
+and [Martina Martinović](https://inamartinovic.com/). 
+I am broadly interested in syntax, semantics, linguistic fieldwork, and language documentation.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Before arriving at McGill, I graduated on top of my class from the BA (Hons.) program 
+at the [University of Manitoba](https://umanitoba.ca/arts/linguistics), 
+where I majored in linguistics and English literature. During my undergraduate degree, 
+I worked on projects in linguistics under the supervision 
+of [Will Oxford](https://home.cc.umanitoba.ca/~oxfordwr/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My specific research interests lie in **grammatical Voice**, **argument structure**, and **indefiniteness**. I am particularly interested in languages that employ the same morphology for both passivization and antipassivization. I'm currently working on **Tlingit**, a language in the Na-Dene language family, spoken in British Columbia and the Yukon (Canada) and Alaska (USA), and **Ukrainian**, an East Slavic language, primarily spoken in Ukraine, which also happens to be my L1. I have also worked on **Oji-Cree** (Ojibwe), which is part of the Algonquian language family, and **Ilocano**, a Philippine language.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am originally from Kyiv, Ukraine, where I spent the first 16 years of my life, and I try to visit my hometown at least once a year. I also really love going to new places: at 20 countries (and counting)! As a passionate syntactician, I have a tree diagram tattoo on my collarbone. When I'm not working, I'm either exploring Montreal, doing a puzzle, or curled up with a book somewhere.
+
