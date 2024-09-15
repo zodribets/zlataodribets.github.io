@@ -253,6 +253,7 @@ exclude:
   - _pages/news.md 
   - _pages/projects.md     
   - _pages/repositories.md
+  - _pages/publication.md  
   - _pages/profiles.md      
 keep_files:
   - CNAME

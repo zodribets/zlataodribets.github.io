@@ -7,9 +7,9 @@ nav_order: 9
 subtitle: 
 
 profile:
-  first_name:
+  first_name: Злата
   middle_name:
-  last_name:
+  last_name: Одрібець
   align: right
   image: portrait.jpg
   image_circular: false # crops the image to make it circular
